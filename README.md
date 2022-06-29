@@ -1,2 +1,2 @@
 # CurrencyConverter
-This is program written in java that converts currency from one to another. I utilized java swing to create the GUI for visualizing the currency conversions.
+This is a program I wrote in java for converting a currency from one to another.
